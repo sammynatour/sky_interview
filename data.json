@@ -1,0 +1,507 @@
+[
+  {
+    "timestamp": 1658777600,
+    "cpu_load": 90.25817988101393,
+    "concurrency": 108115
+  },
+  {
+    "timestamp": 1658777604,
+    "cpu_load": 31.143737017137607,
+    "concurrency": 204535
+  },
+  {
+    "timestamp": 1658777605,
+    "cpu_load": 68.42188163967421,
+    "concurrency": 172797
+  },
+  {
+    "timestamp": 1658777613,
+    "cpu_load": 40.23824348464886,
+    "concurrency": 310341
+  },
+  {
+    "timestamp": 1658777617,
+    "cpu_load": 31.455753089708296,
+    "concurrency": 467530
+  },
+  {
+    "timestamp": 1658777620,
+    "cpu_load": 39.98842305237807,
+    "concurrency": 133971
+  },
+  {
+    "timestamp": 1658777626,
+    "cpu_load": 14.733135941908104,
+    "concurrency": 305946
+  },
+  {
+    "timestamp": 1658777633,
+    "cpu_load": 50.088016445947304,
+    "concurrency": 456413
+  },
+  {
+    "timestamp": 1658777636,
+    "cpu_load": 15.637125894926784,
+    "concurrency": 498682
+  },
+  {
+    "timestamp": 1658777637,
+    "cpu_load": 94.69177253139488,
+    "concurrency": 274068
+  },
+  {
+    "timestamp": 1658777638,
+    "cpu_load": 89.289671475047,
+    "concurrency": 360168
+  },
+  {
+    "timestamp": 1658777639,
+    "cpu_load": 0.1389478451554016,
+    "concurrency": 53523
+  },
+  {
+    "timestamp": 1658777641,
+    "cpu_load": 54.92258928660954,
+    "concurrency": 413249
+  },
+  {
+    "timestamp": 1658777644,
+    "cpu_load": 27.154707100250796,
+    "concurrency": 184651
+  },
+  {
+    "timestamp": 1658777645,
+    "cpu_load": 53.55707351249869,
+    "concurrency": 238813
+  },
+  {
+    "timestamp": 1658777646,
+    "cpu_load": 3.5105750843041683,
+    "concurrency": 461765
+  },
+  {
+    "timestamp": 1658777647,
+    "cpu_load": 34.35384058279344,
+    "concurrency": 444757
+  },
+  {
+    "timestamp": 1658777652,
+    "cpu_load": 18.471784309524452,
+    "concurrency": 474146
+  },
+  {
+    "timestamp": 1658777661,
+    "cpu_load": 8.47715166617653,
+    "concurrency": 297499
+  },
+  {
+    "timestamp": 1658777662,
+    "cpu_load": 27.645383066139463,
+    "concurrency": 283729
+  },
+  {
+    "timestamp": 1658777663,
+    "cpu_load": 76.40422364031201,
+    "concurrency": 176278
+  },
+  {
+    "timestamp": 1658777665,
+    "cpu_load": 2.7689449118381226,
+    "concurrency": 411962
+  },
+  {
+    "timestamp": 1658777668,
+    "cpu_load": 72.41613283972045,
+    "concurrency": 143623
+  },
+  {
+    "timestamp": 1658777671,
+    "cpu_load": 88.5759598913597,
+    "concurrency": 64730
+  },
+  {
+    "timestamp": 1658777674,
+    "cpu_load": 95.32158923666196,
+    "concurrency": 466683
+  },
+  {
+    "timestamp": 1658777680,
+    "cpu_load": 49.71945819935969,
+    "concurrency": 61516
+  },
+  {
+    "timestamp": 1658777682,
+    "cpu_load": 10.078754844570327,
+    "concurrency": 435678
+  },
+  {
+    "timestamp": 1658777688,
+    "cpu_load": 7.836176893880542,
+    "concurrency": 127274
+  },
+  {
+    "timestamp": 1658777689,
+    "cpu_load": 47.55439270789231,
+    "concurrency": 234014
+  },
+  {
+    "timestamp": 1658777692,
+    "cpu_load": 68.48840475436955,
+    "concurrency": 4839
+  },
+  {
+    "timestamp": 1658777694,
+    "cpu_load": 64.46976311244639,
+    "concurrency": 438663
+  },
+  {
+    "timestamp": 1658777696,
+    "cpu_load": 12.404332386527827,
+    "concurrency": 238674
+  },
+  {
+    "timestamp": 1658777703,
+    "cpu_load": 14.959482059724827,
+    "concurrency": 309118
+  },
+  {
+    "timestamp": 1658777705,
+    "cpu_load": 61.32399448232502,
+    "concurrency": 315802
+  },
+  {
+    "timestamp": 1658777707,
+    "cpu_load": 38.488521730612824,
+    "concurrency": 308265
+  },
+  {
+    "timestamp": 1658777708,
+    "cpu_load": 65.52647911804213,
+    "concurrency": 66408
+  },
+  {
+    "timestamp": 1658777709,
+    "cpu_load": 10.23466822157041,
+    "concurrency": 225925
+  },
+  {
+    "timestamp": 1658777711,
+    "cpu_load": 58.56753530804778,
+    "concurrency": 109014
+  },
+  {
+    "timestamp": 1658777712,
+    "cpu_load": 32.35218447701281,
+    "concurrency": 326802
+  },
+  {
+    "timestamp": 1658777714,
+    "cpu_load": 74.48256763640383,
+    "concurrency": 35793
+  },
+  {
+    "timestamp": 1658777716,
+    "cpu_load": 92.31608803999517,
+    "concurrency": 280670
+  },
+  {
+    "timestamp": 1658777717,
+    "cpu_load": 61.77252042696987,
+    "concurrency": 77414
+  },
+  {
+    "timestamp": 1658777718,
+    "cpu_load": 73.4854134535966,
+    "concurrency": 299974
+  },
+  {
+    "timestamp": 1658777725,
+    "cpu_load": 34.274496884825524,
+    "concurrency": 381238
+  },
+  {
+    "timestamp": 1658777734,
+    "cpu_load": 25.436247309555384,
+    "concurrency": 292419
+  },
+  {
+    "timestamp": 1658777735,
+    "cpu_load": 86.41616777434125,
+    "concurrency": 273215
+  },
+  {
+    "timestamp": 1658777737,
+    "cpu_load": 47.24846937802639,
+    "concurrency": 364478
+  },
+  {
+    "timestamp": 1658777739,
+    "cpu_load": 55.67751680397733,
+    "concurrency": 489127
+  },
+  {
+    "timestamp": 1658777740,
+    "cpu_load": 74.80973295730168,
+    "concurrency": 355890
+  },
+  {
+    "timestamp": 1658777741,
+    "cpu_load": 13.079167778949275,
+    "concurrency": 216693
+  },
+  {
+    "timestamp": 1658777742,
+    "cpu_load": 4.129443399508903,
+    "concurrency": 486490
+  },
+  {
+    "timestamp": 1658777744,
+    "cpu_load": 9.220887845072856,
+    "concurrency": 152754
+  },
+  {
+    "timestamp": 1658777749,
+    "cpu_load": 89.14301065679972,
+    "concurrency": 460753
+  },
+  {
+    "timestamp": 1658777750,
+    "cpu_load": 60.887214237485274,
+    "concurrency": 304941
+  },
+  {
+    "timestamp": 1658777754,
+    "cpu_load": 15.69899176658085,
+    "concurrency": 93307
+  },
+  {
+    "timestamp": 1658777756,
+    "cpu_load": 6.8581019406944055,
+    "concurrency": 212140
+  },
+  {
+    "timestamp": 1658777758,
+    "cpu_load": 19.025626497855274,
+    "concurrency": 424551
+  },
+  {
+    "timestamp": 1658777763,
+    "cpu_load": 87.46528098851768,
+    "concurrency": 467323
+  },
+  {
+    "timestamp": 1658777765,
+    "cpu_load": 68.37470122391733,
+    "concurrency": 28647
+  },
+  {
+    "timestamp": 1658777766,
+    "cpu_load": 45.00196217133843,
+    "concurrency": 149516
+  },
+  {
+    "timestamp": 1658777770,
+    "cpu_load": 62.14164415645197,
+    "concurrency": 336431
+  },
+  {
+    "timestamp": 1658777772,
+    "cpu_load": 33.644615261819574,
+    "concurrency": 105558
+  },
+  {
+    "timestamp": 1658777775,
+    "cpu_load": 38.77277763643831,
+    "concurrency": 424770
+  },
+  {
+    "timestamp": 1658777781,
+    "cpu_load": 31.763645495822203,
+    "concurrency": 287882
+  },
+  {
+    "timestamp": 1658777782,
+    "cpu_load": 75.30730569941063,
+    "concurrency": 422656
+  },
+  {
+    "timestamp": 1658777783,
+    "cpu_load": 21.188889467805904,
+    "concurrency": 452440
+  },
+  {
+    "timestamp": 1658777785,
+    "cpu_load": 15.194588359493578,
+    "concurrency": 288776
+  },
+  {
+    "timestamp": 1658777788,
+    "cpu_load": 80.01791482439266,
+    "concurrency": 123061
+  },
+  {
+    "timestamp": 1658777795,
+    "cpu_load": 48.17253265552595,
+    "concurrency": 123589
+  },
+  {
+    "timestamp": 1658777797,
+    "cpu_load": 16.114835701991247,
+    "concurrency": 372370
+  },
+  {
+    "timestamp": 1658777798,
+    "cpu_load": 74.96918382475279,
+    "concurrency": 323891
+  },
+  {
+    "timestamp": 1658777800,
+    "cpu_load": 45.159000664424696,
+    "concurrency": 319670
+  },
+  {
+    "timestamp": 1658777801,
+    "cpu_load": 5.120469581031117,
+    "concurrency": 444860
+  },
+  {
+    "timestamp": 1658777802,
+    "cpu_load": 40.91261553014424,
+    "concurrency": 345546
+  },
+  {
+    "timestamp": 1658777805,
+    "cpu_load": 56.87872254036812,
+    "concurrency": 173081
+  },
+  {
+    "timestamp": 1658777810,
+    "cpu_load": 91.0794906016623,
+    "concurrency": 37100
+  },
+  {
+    "timestamp": 1658777811,
+    "cpu_load": 86.28829045587283,
+    "concurrency": 195518
+  },
+  {
+    "timestamp": 1658777815,
+    "cpu_load": 21.351937934370437,
+    "concurrency": 432079
+  },
+  {
+    "timestamp": 1658777818,
+    "cpu_load": 80.80193153513639,
+    "concurrency": 275564
+  },
+  {
+    "timestamp": 1658777819,
+    "cpu_load": 8.581879295216478,
+    "concurrency": 311006
+  },
+  {
+    "timestamp": 1658777822,
+    "cpu_load": 56.85351311009668,
+    "concurrency": 294220
+  },
+  {
+    "timestamp": 1658777824,
+    "cpu_load": 14.361577423383508,
+    "concurrency": 378220
+  },
+  {
+    "timestamp": 1658777829,
+    "cpu_load": 3.815888024067826,
+    "concurrency": 346362
+  },
+  {
+    "timestamp": 1658777832,
+    "cpu_load": 70.88895388072461,
+    "concurrency": 274848
+  },
+  {
+    "timestamp": 1658777833,
+    "cpu_load": 84.43739227544884,
+    "concurrency": 447953
+  },
+  {
+    "timestamp": 1658777843,
+    "cpu_load": 24.4680995428327,
+    "concurrency": 277150
+  },
+  {
+    "timestamp": 1658777854,
+    "cpu_load": 22.624951315443997,
+    "concurrency": 253636
+  },
+  {
+    "timestamp": 1658777855,
+    "cpu_load": 14.160448250910363,
+    "concurrency": 226623
+  },
+  {
+    "timestamp": 1658777856,
+    "cpu_load": 89.63973360344549,
+    "concurrency": 442501
+  },
+  {
+    "timestamp": 1658777858,
+    "cpu_load": 91.80867365009229,
+    "concurrency": 417227
+  },
+  {
+    "timestamp": 1658777860,
+    "cpu_load": 41.25888304873618,
+    "concurrency": 418524
+  },
+  {
+    "timestamp": 1658777867,
+    "cpu_load": 14.735678135484564,
+    "concurrency": 199699
+  },
+  {
+    "timestamp": 1658777868,
+    "cpu_load": 41.01095702607391,
+    "concurrency": 381361
+  },
+  {
+    "timestamp": 1658777869,
+    "cpu_load": 48.451776133563186,
+    "concurrency": 284825
+  },
+  {
+    "timestamp": 1658777871,
+    "cpu_load": 72.43855970020816,
+    "concurrency": 102378
+  },
+  {
+    "timestamp": 1658777873,
+    "cpu_load": 5.465051980179103,
+    "concurrency": 296242
+  },
+  {
+    "timestamp": 1658777875,
+    "cpu_load": 51.2158849289572,
+    "concurrency": 228418
+  },
+  {
+    "timestamp": 1658777882,
+    "cpu_load": 10.111973444184663,
+    "concurrency": 69285
+  },
+  {
+    "timestamp": 1658777884,
+    "cpu_load": 20.08478264321919,
+    "concurrency": 237747
+  },
+  {
+    "timestamp": 1658777888,
+    "cpu_load": 10.192850587419578,
+    "concurrency": 487776
+  },
+  {
+    "timestamp": 1658777890,
+    "cpu_load": 22.32544888452157,
+    "concurrency": 314842
+  }
+]
