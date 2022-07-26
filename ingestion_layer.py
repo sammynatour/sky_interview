@@ -9,14 +9,15 @@ import db
 
 def random_date(timeframe, nof_entries):
     """
-
-    :param timeframe:
-    :param nof_entries:
-    :return:
+    Yields a generator object of unique timestamps distributed over the timeframe
+    :param timeframe: range of time for datapoints with current time as the end points
+    :param nof_entries: the number datapoints desired
+    :return: None
     """
 
     current_time = datetime.datetime.utcnow()
     time_stamps = []
+    # stops infinite loop by limiting nof_entries to number of available seconds in the timeframe
     if nof_entries > timeframe * 60:
         nof_entries = timeframe * 60
 
@@ -32,10 +33,13 @@ def random_date(timeframe, nof_entries):
 
 def generate_data(timeframe, num_datapoints):
     """
+    Creates a json like set of data containing a timestamp, cpu_load and concurrency.
+    The timestamps are randomly distributed over the timeframe and are unique.
+    cpu_load is a random float between 0 and 100, concurrency is a random integer between 0 and 5000000
 
-    :param timeframe: time
-    :param num_datapoints:
-    :return:
+    :param timeframe: range of time in minutes for datapoints with current time as the end points
+    :param num_datapoints: the number datapoints desired
+    :return metrics_data: a json like data structure containing the metrics data
     """
 
     metrics_data = []
@@ -54,9 +58,9 @@ def generate_data(timeframe, num_datapoints):
 
 def insert_data(metrics_data):
     """
-
-    :param metrics_data:
-    :return:
+    Uses an sqlalchemy session to insert the data using the db model
+    :param metrics_data: json like data to be ingested into the database
+    :return: None
     """
     # new session
     Session = sessionmaker(bind=db.engine)
@@ -82,6 +86,3 @@ def main():
 
 
 main()
-
-print()
-#TODO passargs
